@@ -13,12 +13,12 @@ brew untap kklongming/homebrew-jsoncpp
 ```
 
 ## Usage
-``` C++
+```C++
 // include header
 #include <jsoncpp/json.h>
 ```
 
-```
+```bash
 # Add Link Flags
 -ljsoncpp
 ```
